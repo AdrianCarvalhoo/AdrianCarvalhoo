@@ -1,0 +1,4 @@
+- 👋 Opa, eu sou @AdrianCarvalhoo!!
+- Estudante de Sistemas de Informação no Instituto Federal.
+- Atualmente Java é meu objetivo principal no mundo da programação e estudos...
+- Tmj!!
