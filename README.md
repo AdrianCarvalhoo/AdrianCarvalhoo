@@ -4,11 +4,6 @@
 - ➠ Curso de Sistemas de Informação
 - ➠ Estudando Java | Banco de dados 
 
-<div align="center">
-  <a href="https://github.com/AdrianCarvalhoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianCarvalhoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCarvalhoo&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
 ###  ⚡Technologies
 
 <div style="display: inline_block"><br>
