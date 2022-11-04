@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 Aluno do Instituto Federal de Educação, Ciência e Tecnologia de Sergipe - IFS - Campus Lagarto
 - ➠ Curso de Sistemas de Informação
-- ➠ Estudando  
+- ➠ 5/8 
 
 ###  ⚡Tecnologias
 
