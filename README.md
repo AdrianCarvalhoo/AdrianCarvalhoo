@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 Aluno do Instituto Federal de Educação, Ciência e Tecnologia de Sergipe - IFS - Campus Lagarto
 - ➠ Curso de Sistemas de Informação
-- ➠ 5/8 
+- 🎓 5/8 
 <div align="center">
   <a href="https://github.com/AdrianCarvalhoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianCarvalhoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
