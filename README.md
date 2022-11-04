@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianCarvalhoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCarvalhoo&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-###  ⚡Tecnologias
+  ⚡Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="70" width="70" src="https://icongr.am/devicon/java-original-wordmark.svg?size=130&color">
@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-Python" height="60" width="70" src="https://icongr.am/devicon/intellij-original.svg?size=128&color=ffffff">
  </div>
  
- ### ⚡Contatos
+ ⚡Contatos
  
 <div> 
   <a href="https://github.com/AdrianCarvalhoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
