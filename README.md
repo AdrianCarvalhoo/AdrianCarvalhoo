@@ -1,4 +1,4 @@
-## Opa, eu sou Adrian Carvalho ヽ(͡◕ ͜ʖ ͡◕)ﾉ
+## Opa, eu sou Adrian Carvalho!!
 
 - 🧑‍🎓 Aluno do Instituto Federal de Educação, Ciência e Tecnologia de Sergipe - IFS - Campus Lagarto
 - ➠ Curso de Sistemas de Informação
