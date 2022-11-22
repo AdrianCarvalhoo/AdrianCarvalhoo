@@ -1,4 +1,4 @@
-## Opa, eu sou Adrian Carvalho!!
+## Hello, I'm Adrian Carvalho! <img height="40em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>
 
 - 🧑‍🎓 Student at the Federal Institute of Education, Science and Technology of Sergipe - IFS - Campus Lagarto
 - ➠ Information Systems Course
