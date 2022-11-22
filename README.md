@@ -1,7 +1,7 @@
 ## Opa, eu sou Adrian Carvalho!!
 
-- 🧑‍🎓 Aluno do Instituto Federal de Educação, Ciência e Tecnologia de Sergipe - IFS - Campus Lagarto
-- ➠ Curso de Sistemas de Informação
+- 🧑‍🎓 Student at the Federal Institute of Education, Science and Technology of Sergipe - IFS - Campus Lagarto
+- ➠ Information Systems Course
 - 🎓 5/8 
 <div align="center">
   <a href="https://github.com/AdrianCarvalhoo">
@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCarvalhoo&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
   
-  ⚡Tecnologias
+  🛠Study technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="70" width="70" src="https://icongr.am/devicon/java-original-wordmark.svg?size=130&color">
@@ -25,7 +25,7 @@
  
   ##
  
- ⚡Contatos
+ ⚡Connect with Me
  
 <div> 
   <a href="https://www.instagram.com/adriancarvalhoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
