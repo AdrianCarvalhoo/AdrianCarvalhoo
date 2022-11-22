@@ -19,6 +19,7 @@
   <img align="center" alt="Rafa-Ts" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://icongr.am/devicon/photoshop-line.svg?size=130&color=2970ff">
   <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://icongr.am/devicon/git-original.svg?size=130&color=2970ff">
+  <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Rafa-Python" height="60" width="70" src="https://icongr.am/devicon/intellij-original.svg?size=128&color=ffffff">
   <img align="center" alt="Rafa-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
  
