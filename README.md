@@ -5,8 +5,8 @@
 - 🎓 5/8 
 <div align="center">
   <a href="https://github.com/AdrianCarvalhoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianCarvalhoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCarvalhoo&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianCarvalhoo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCarvalhoo&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
   🛠Study technologies
@@ -32,7 +32,7 @@
   <a href = "mailto:adrian.araujcarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/AdrianCarvalhoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AdrianCarvalhoo&bg_color=02001f&color=ffffff&line=ff4d00&point=ffae00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AdrianCarvalhoo&bg_color=000000&color=98d0cd&line=174b42&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  
 </div>
