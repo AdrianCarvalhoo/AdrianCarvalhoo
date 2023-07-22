@@ -11,18 +11,23 @@
   
   🛠Study technologies
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-  <img align="center" alt="Rafa-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafa-Ts" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Rafa-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=130&color">
-  <img align="center" alt="Rafa-Ts" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Rafa-Ts" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://icongr.am/devicon/photoshop-line.svg?size=130&color=2970ff">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
+   <img src="https://skillicons.dev/icons?i=dart" />
+  
+  <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=spring" />
+    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=ps" />
+    <img src="https://skillicons.dev/icons?i=postman" />
+    <img src="https://skillicons.dev/icons?i=git" />
+</p>
  
   ##
  
