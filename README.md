@@ -1,5 +1,5 @@
 ## I'm Adrian Carvalho! <img height="40em" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif"/>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=AdrianCarvalhoo&color=orange" alt="Profile views" /></p>
 - 🧑‍🎓 Student at the Federal Institute of Education, Science and Technology of Sergipe - IFS - Campus Lagarto
 - ➠ Information Systems Course
 - 🎓 6/8 
@@ -30,7 +30,6 @@
 </p>
  
   ##
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrianCarvalhoo&color=orange" alt="Profile views" /></p>
  
  ⚡Connect with Me
  
