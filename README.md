@@ -1,16 +1,18 @@
 ## I'm Adrian Carvalho! <img height="40em" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif"/>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AdrianCarvalhoo&color=orange" alt="Profile views" /></p>
+
 - 🧑‍🎓 Student at the Federal Institute of Education, Science and Technology of Sergipe - IFS - Campus Lagarto
+
 - ➠ Information Systems Course
-- 🎓 6/8 
+  
+- 🎓 6/8
+  
 <div align="center">
   <a href="https://github.com/AdrianCarvalhoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianCarvalhoo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCarvalhoo&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-  
+</div> 
   🛠Study technologies
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio" />
   <img src="https://skillicons.dev/icons?i=flutter" />
