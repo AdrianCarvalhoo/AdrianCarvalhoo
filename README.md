@@ -30,6 +30,7 @@
 </p>
  
   ##
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrianCarvalhoo&color=green" alt="Profile views" /></p>
  
  ⚡Connect with Me
  
@@ -38,7 +39,5 @@
   <a href = "mailto:adrian.araujcarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adrian-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-
- 
 </div>
 
