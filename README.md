@@ -30,7 +30,7 @@
 </p>
  
   ##
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrianCarvalhoo&color=green" alt="Profile views" /></p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrianCarvalhoo&color=orange" alt="Profile views" /></p>
  
  ⚡Connect with Me
  
