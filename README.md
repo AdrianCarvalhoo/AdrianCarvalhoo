@@ -1,4 +1,4 @@
-## I'm Adrian Carvalho! <img height="40em" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif"/>
+## I'm Adrian Carvalho! <img height="20em" src="https://www.imagensanimadas.com/data/media/707/bem-vindo-imagem-animada-0225.gif"/>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AdrianCarvalhoo&color=orange" alt="Profile views" /></p>
 
 - 🧑‍🎓 Student at the Federal Institute of Education, Science and Technology of Sergipe - IFS - Campus Lagarto
