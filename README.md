@@ -20,12 +20,12 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" />
   <img src="https://skillicons.dev/icons?i=flutter" />
    <img src="https://skillicons.dev/icons?i=dart" />
-  
   <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=java" />
     <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
     <img src="https://skillicons.dev/icons?i=postgres" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=figma" />
